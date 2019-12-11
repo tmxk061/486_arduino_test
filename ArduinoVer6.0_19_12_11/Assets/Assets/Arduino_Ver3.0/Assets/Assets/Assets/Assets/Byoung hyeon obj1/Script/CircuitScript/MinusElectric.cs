@@ -1,0 +1,50 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MinusElectric : MonoBehaviour
+{
+    public float minusElectro = 0;
+    public float Electro = 0;
+
+    public GameObject Around;
+    protected LineManager Line;
+    protected CircuitManager Circuit;
+
+    private void OnTriggerStay(Collider other)
+    {
+        Line = other.gameObject.GetComponentInParent<LineManager>();
+        Circuit = FindObjectOfType<CircuitManager>();
+
+        //전력의 값을 바꾼다.
+        if (other.tag == "Line" && Line.ConnectSuccese == 1)
+        {
+            minusElectro = 1;
+            Electro = 3.0f;
+            Line.Electro = Electro;
+            Circuit.ConnectElectro = Electro;
+            Around.SetActive(false);
+        }
+        if (other.tag == "Line" && Line.ConnectSuccese == 0)
+        {
+            minusElectro = 0;
+            Electro = 0;
+            Line.Electro = Electro;
+            Circuit.ConnectElectro = Electro;
+            Around.SetActive(true);
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        //Line = other.gameObject.GetComponentInParent<LineManager>();
+
+        if (other.tag == "Line")
+        {
+            minusElectro = 0;
+            Electro = 0;
+            Circuit.ConnectElectro = Electro;
+            Around.SetActive(true);
+        }
+    }
+}

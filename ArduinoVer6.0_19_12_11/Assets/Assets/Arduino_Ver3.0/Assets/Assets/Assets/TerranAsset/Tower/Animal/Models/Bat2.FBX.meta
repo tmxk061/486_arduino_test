@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: f7d77b30766122841934dcf4037a1f77
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BottomBody
+    100004: Chest
+    100006: Chin
+    100008: head
+    100010: LeftArm
+    100012: LeftBottomSkin
+    100014: LeftEar
+    100016: LeftEye
+    100018: LeftHand
+    100020: LeftInsideEar
+    100022: LeftLeg
+    100024: LeftToe1
+    100026: LeftToe2
+    100028: LeftTooth
+    100030: LeftTopSkin
+    100032: LeftWing
+    100034: Mouse
+    100036: PhysCamera001
+    100038: PhysCamera001.Target
+    100040: RightArm
+    100042: RightBottomSkin
+    100044: RightEar
+    100046: RightEye
+    100048: RightHand
+    100050: RightInsideEar
+    100052: RightLeg
+    100054: RightToe1
+    100056: RightToe2
+    100058: RightTooth
+    100060: RightTopSkin
+    100062: RightWing
+    100064: Stomach
+    100066: TopBody
+    400000: //RootNode
+    400002: BottomBody
+    400004: Chest
+    400006: Chin
+    400008: head
+    400010: LeftArm
+    400012: LeftBottomSkin
+    400014: LeftEar
+    400016: LeftEye
+    400018: LeftHand
+    400020: LeftInsideEar
+    400022: LeftLeg
+    400024: LeftToe1
+    400026: LeftToe2
+    400028: LeftTooth
+    400030: LeftTopSkin
+    400032: LeftWing
+    400034: Mouse
+    400036: PhysCamera001
+    400038: PhysCamera001.Target
+    400040: RightArm
+    400042: RightBottomSkin
+    400044: RightEar
+    400046: RightEye
+    400048: RightHand
+    400050: RightInsideEar
+    400052: RightLeg
+    400054: RightToe1
+    400056: RightToe2
+    400058: RightTooth
+    400060: RightTopSkin
+    400062: RightWing
+    400064: Stomach
+    400066: TopBody
+    2100000: 01 - Default
+    2100002: 08 - Default
+    2100004: 02 - Default
+    2100006: 09 - Default
+    2100008: 03 - Default
+    2100010: 07 - Default
+    2300000: BottomBody
+    2300002: Chest
+    2300004: Chin
+    2300006: head
+    2300008: LeftArm
+    2300010: LeftBottomSkin
+    2300012: LeftEar
+    2300014: LeftEye
+    2300016: LeftHand
+    2300018: LeftInsideEar
+    2300020: LeftLeg
+    2300022: LeftToe1
+    2300024: LeftToe2
+    2300026: LeftTooth
+    2300028: LeftTopSkin
+    2300030: LeftWing
+    2300032: Mouse
+    2300034: RightArm
+    2300036: RightBottomSkin
+    2300038: RightEar
+    2300040: RightEye
+    2300042: RightHand
+    2300044: RightInsideEar
+    2300046: RightLeg
+    2300048: RightToe1
+    2300050: RightToe2
+    2300052: RightTooth
+    2300054: RightTopSkin
+    2300056: RightWing
+    2300058: Stomach
+    2300060: TopBody
+    3300000: BottomBody
+    3300002: Chest
+    3300004: Chin
+    3300006: head
+    3300008: LeftArm
+    3300010: LeftBottomSkin
+    3300012: LeftEar
+    3300014: LeftEye
+    3300016: LeftHand
+    3300018: LeftInsideEar
+    3300020: LeftLeg
+    3300022: LeftToe1
+    3300024: LeftToe2
+    3300026: LeftTooth
+    3300028: LeftTopSkin
+    3300030: LeftWing
+    3300032: Mouse
+    3300034: RightArm
+    3300036: RightBottomSkin
+    3300038: RightEar
+    3300040: RightEye
+    3300042: RightHand
+    3300044: RightInsideEar
+    3300046: RightLeg
+    3300048: RightToe1
+    3300050: RightToe2
+    3300052: RightTooth
+    3300054: RightTopSkin
+    3300056: RightWing
+    3300058: Stomach
+    3300060: TopBody
+    4300000: TopBody
+    4300002: head
+    4300004: BottomBody
+    4300006: LeftLeg
+    4300008: LeftArm
+    4300010: LeftTopSkin
+    4300012: RightHand
+    4300014: Chest
+    4300016: Stomach
+    4300018: RightToe2
+    4300020: RightEye
+    4300022: LeftEye
+    4300024: LeftInsideEar
+    4300026: Mouse
+    4300028: Chin
+    4300030: LeftTooth
+    4300032: LeftBottomSkin
+    4300034: LeftWing
+    4300036: LeftEar
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - TopBody
+    - LeftArm
+    - RightArm
+    - Chest
+    - LeftEye
+    - RightEye
+    - LeftInsideEar
+    - RightInsideEar
+    - Mouse
+    - Chin
+    - LeftTooth
+    - RightTooth
+    - LeftWing
+    - RightWing
+    - LeftEar
+    - RightEar
+    - head
+    - BottomBody
+    - LeftTopSkin
+    - RightTopSkin
+    - RightHand
+    - LeftHand
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

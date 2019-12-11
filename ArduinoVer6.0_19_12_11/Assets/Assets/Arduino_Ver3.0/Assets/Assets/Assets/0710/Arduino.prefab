@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &6960629075338509379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5073031274409392908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f074360d7cffcf4ca12c2408e133878, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PinList: []
+--- !u!114 &2354093335131185765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5073031273677893898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cbf5b083dac82d428a62aa9e3b7767d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turnon: {fileID: 2100000, guid: ad011bf3020e71847946cf511f0117cc, type: 2}
+  turnoff: {fileID: 2100000, guid: 616435848b38dac4bb2644f6c553c866, type: 2}
+--- !u!114 &2354093334374394152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5073031273749907787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cbf5b083dac82d428a62aa9e3b7767d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turnon: {fileID: 2100000, guid: 5ce8c5f1fc7bc6543b3600be8d24bb21, type: 2}
+  turnoff: {fileID: 2100000, guid: 616435848b38dac4bb2644f6c553c866, type: 2}
+--- !u!1001 &5839111119673922776
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1688770354944470996, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_Name
+      value: Arduino
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470996, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_TagString
+      value: Arduino
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 33.158615
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 93.72998
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 30.318993
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00023338826
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.99976367
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.01408862
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.01655576
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -1.6150001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 178.10301
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 54.000053
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770354944470984, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 30.00003
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770355629202835, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_TagString
+      value: arduinolight1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770355691660754, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_TagString
+      value: arduinolight2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1688770355629202838, guid: beb313a3c9c6fb2499b7f6961095c89c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 616435848b38dac4bb2644f6c553c866, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: beb313a3c9c6fb2499b7f6961095c89c, type: 3}
+--- !u!1 &5073031274409392908 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1688770354944470996, guid: beb313a3c9c6fb2499b7f6961095c89c,
+    type: 3}
+  m_PrefabInstance: {fileID: 5839111119673922776}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5073031273677893898 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1688770355691660754, guid: beb313a3c9c6fb2499b7f6961095c89c,
+    type: 3}
+  m_PrefabInstance: {fileID: 5839111119673922776}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5073031273749907787 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1688770355629202835, guid: beb313a3c9c6fb2499b7f6961095c89c,
+    type: 3}
+  m_PrefabInstance: {fileID: 5839111119673922776}
+  m_PrefabAsset: {fileID: 0}

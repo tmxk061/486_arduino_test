@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arround
+  - INPUT
+  - OUTPUT
+  - WaitBlock
+  - BlockInPut
+  - UltBlock
+  - LightObject
+  - resister
+  - SUN
+  - LIGHT
+  - DigitalWrite
+  - Weather
+  - New
+  - RunBlock
+  - ifBlock
+  - Block
+  - region
+  - DropDownMenu
+  - L298N_VCC
+  - L298N_OUT
+  - L298N_DIGITAL
+  - L298N_GND
+  - ifBar
+  - AnalogRead
+  - ServoBlock
+  - Line
+  - BlockUI
+  - Temperature
+  - GND
+  - DIGITAL
+  - ANALOG
+  - VCC
+  - arduinolight2
+  - arduinolight1
+  - Arduino
+  - BreadPin
+  - BlockCoding
+  - Plus
+  - Minus
+  - LED
+  - Camera
+  - BreadGND
+  - BreadPlus
+  - BreadDIGITAL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Sensor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

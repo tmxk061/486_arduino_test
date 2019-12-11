@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 30d2389efd715b847a2d780b69e23454
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanLCalf
+    100006: Base HumanLCollarbone
+    100008: Base HumanLDigit11
+    100010: Base HumanLDigit11 1
+    100012: Base HumanLDigit12
+    100014: Base HumanLDigit13
+    100016: Base HumanLDigit21
+    100018: Base HumanLDigit22
+    100020: Base HumanLDigit23
+    100022: Base HumanLDigit31
+    100024: Base HumanLDigit32
+    100026: Base HumanLDigit33
+    100028: Base HumanLDigit41
+    100030: Base HumanLDigit42
+    100032: Base HumanLDigit43
+    100034: Base HumanLFoot
+    100036: Base HumanLForearm
+    100038: Base HumanLPalm
+    100040: Base HumanLPlatform
+    100042: Base HumanLThigh
+    100044: Base HumanLUpperarm
+    100046: Base HumanNeck1
+    100048: Base HumanNeck2
+    100050: Base HumanPelvis
+    100052: Base HumanRCalf
+    100054: Base HumanRCollarbone
+    100056: Base HumanRDigit11
+    100058: Base HumanRDigit11 1
+    100060: Base HumanRDigit12
+    100062: Base HumanRDigit13
+    100064: Base HumanRDigit21
+    100066: Base HumanRDigit22
+    100068: Base HumanRDigit23
+    100070: Base HumanRDigit31
+    100072: Base HumanRDigit32
+    100074: Base HumanRDigit33
+    100076: Base HumanRDigit41
+    100078: Base HumanRDigit42
+    100080: Base HumanRDigit43
+    100082: Base HumanRFoot
+    100084: Base HumanRForearm
+    100086: Base HumanRibcage
+    100088: Base HumanRPalm
+    100090: Base HumanRPlatform
+    100092: Base HumanRThigh
+    100094: Base HumanRUpperarm
+    100096: Base HumanSpine1
+    100098: Base HumanSpine2
+    100100: Bone001
+    100102: Bone003
+    100104: Bone005
+    100106: Bone007
+    100108: Bone009
+    100110: Bone011
+    100112: Bone013
+    100114: Bone014
+    100116: Camera001
+    100118: Camera001.Target
+    100120: Camera002
+    100122: Camera002.Target
+    100124: Cylinder008
+    100126: Cylinder010
+    100128: Cylinder012
+    100130: Cylinder013
+    100132: Cylinder014
+    100134: Cylinder015
+    100136: Cylinder016
+    100138: Cylinder017
+    100140: Cylinder019
+    100142: Cylinder020
+    100144: default
+    100146: default001
+    100148: Dummy001
+    100150: Dummy002
+    100152: Dummy003
+    100154: Dummy004
+    100156: //RootNode
+    100158: Object002
+    100160: Object005
+    100162: Object006
+    100164: Object010
+    100166: Object015
+    100168: Object017
+    100170: Object025
+    100172: Object033
+    100174: Object034
+    100176: Object035
+    100178: Object037
+    100180: Object039
+    100182: Object041
+    100184: Object043
+    100186: Object045
+    100188: Object047
+    100190: Object049
+    100192: Object051
+    100194: Object053
+    100196: Object055
+    100198: Object057
+    100200: Object058
+    100202: Object059
+    100204: Object060
+    100206: Object061
+    100208: Object062
+    100210: Object063
+    100212: Object064
+    100214: Object065
+    100216: Object066
+    100218: Object067
+    100220: Object068
+    100222: Object069
+    100224: Object070
+    100226: Object071
+    100228: Object072
+    100230: Object073
+    100232: Object074
+    100234: Object075
+    100236: Object076
+    100238: Object078
+    100240: Object079
+    100242: Object080
+    100244: Object081
+    100246: Object083
+    100248: Object086
+    100250: Object087
+    100252: Object088
+    100254: Object091
+    100256: Object092
+    100258: Object097
+    100260: Object098
+    100262: Object099
+    100264: Object100
+    100266: Plane002
+    100268: Plane004
+    100270: Plane006
+    100272: Plane009
+    100274: Plane010
+    100276: Plane013
+    100278: Plane014
+    100280: Plane015
+    100282: Plane016
+    100284: Plane017
+    100286: Plane018
+    100288: Plane019
+    100290: Plane020
+    100292: Shape001
+    100294: Shape002
+    100296: VRayLight001
+    100298: VRayStereoscopic001
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanLCalf
+    400006: Base HumanLCollarbone
+    400008: Base HumanLDigit11
+    400010: Base HumanLDigit11 1
+    400012: Base HumanLDigit12
+    400014: Base HumanLDigit13
+    400016: Base HumanLDigit21
+    400018: Base HumanLDigit22
+    400020: Base HumanLDigit23
+    400022: Base HumanLDigit31
+    400024: Base HumanLDigit32
+    400026: Base HumanLDigit33
+    400028: Base HumanLDigit41
+    400030: Base HumanLDigit42
+    400032: Base HumanLDigit43
+    400034: Base HumanLFoot
+    400036: Base HumanLForearm
+    400038: Base HumanLPalm
+    400040: Base HumanLPlatform
+    400042: Base HumanLThigh
+    400044: Base HumanLUpperarm
+    400046: Base HumanNeck1
+    400048: Base HumanNeck2
+    400050: Base HumanPelvis
+    400052: Base HumanRCalf
+    400054: Base HumanRCollarbone
+    400056: Base HumanRDigit11
+    400058: Base HumanRDigit11 1
+    400060: Base HumanRDigit12
+    400062: Base HumanRDigit13
+    400064: Base HumanRDigit21
+    400066: Base HumanRDigit22
+    400068: Base HumanRDigit23
+    400070: Base HumanRDigit31
+    400072: Base HumanRDigit32
+    400074: Base HumanRDigit33
+    400076: Base HumanRDigit41
+    400078: Base HumanRDigit42
+    400080: Base HumanRDigit43
+    400082: Base HumanRFoot
+    400084: Base HumanRForearm
+    400086: Base HumanRibcage
+    400088: Base HumanRPalm
+    400090: Base HumanRPlatform
+    400092: Base HumanRThigh
+    400094: Base HumanRUpperarm
+    400096: Base HumanSpine1
+    400098: Base HumanSpine2
+    400100: Bone001
+    400102: Bone003
+    400104: Bone005
+    400106: Bone007
+    400108: Bone009
+    400110: Bone011
+    400112: Bone013
+    400114: Bone014
+    400116: Camera001
+    400118: Camera001.Target
+    400120: Camera002
+    400122: Camera002.Target
+    400124: Cylinder008
+    400126: Cylinder010
+    400128: Cylinder012
+    400130: Cylinder013
+    400132: Cylinder014
+    400134: Cylinder015
+    400136: Cylinder016
+    400138: Cylinder017
+    400140: Cylinder019
+    400142: Cylinder020
+    400144: default
+    400146: default001
+    400148: Dummy001
+    400150: Dummy002
+    400152: Dummy003
+    400154: Dummy004
+    400156: //RootNode
+    400158: Object002
+    400160: Object005
+    400162: Object006
+    400164: Object010
+    400166: Object015
+    400168: Object017
+    400170: Object025
+    400172: Object033
+    400174: Object034
+    400176: Object035
+    400178: Object037
+    400180: Object039
+    400182: Object041
+    400184: Object043
+    400186: Object045
+    400188: Object047
+    400190: Object049
+    400192: Object051
+    400194: Object053
+    400196: Object055
+    400198: Object057
+    400200: Object058
+    400202: Object059
+    400204: Object060
+    400206: Object061
+    400208: Object062
+    400210: Object063
+    400212: Object064
+    400214: Object065
+    400216: Object066
+    400218: Object067
+    400220: Object068
+    400222: Object069
+    400224: Object070
+    400226: Object071
+    400228: Object072
+    400230: Object073
+    400232: Object074
+    400234: Object075
+    400236: Object076
+    400238: Object078
+    400240: Object079
+    400242: Object080
+    400244: Object081
+    400246: Object083
+    400248: Object086
+    400250: Object087
+    400252: Object088
+    400254: Object091
+    400256: Object092
+    400258: Object097
+    400260: Object098
+    400262: Object099
+    400264: Object100
+    400266: Plane002
+    400268: Plane004
+    400270: Plane006
+    400272: Plane009
+    400274: Plane010
+    400276: Plane013
+    400278: Plane014
+    400280: Plane015
+    400282: Plane016
+    400284: Plane017
+    400286: Plane018
+    400288: Plane019
+    400290: Plane020
+    400292: Shape001
+    400294: Shape002
+    400296: VRayLight001
+    400298: VRayStereoscopic001
+    2000000: Camera001
+    2000002: Camera002
+    2100000: No Name
+    2100002: 'Material #118'
+    2100004: 'Material #32'
+    2100006: 'Material #33'
+    2100008: 'Material #35'
+    2300000: Cylinder008
+    2300002: Cylinder010
+    2300004: Cylinder012
+    2300006: Cylinder013
+    2300008: Cylinder014
+    2300010: Cylinder015
+    2300012: Cylinder016
+    2300014: Cylinder017
+    2300016: Cylinder019
+    2300018: Cylinder020
+    2300020: default
+    2300022: default001
+    2300024: Object002
+    2300026: Object005
+    2300028: Object006
+    2300030: Object015
+    2300032: Object017
+    2300034: Object033
+    2300036: Object034
+    2300038: Object035
+    2300040: Object037
+    2300042: Object039
+    2300044: Object041
+    2300046: Object043
+    2300048: Object045
+    2300050: Object047
+    2300052: Object049
+    2300054: Object051
+    2300056: Object053
+    2300058: Object055
+    2300060: Object058
+    2300062: Object059
+    2300064: Object060
+    2300066: Object061
+    2300068: Object062
+    2300070: Object063
+    2300072: Object064
+    2300074: Object065
+    2300076: Object066
+    2300078: Object067
+    2300080: Object068
+    2300082: Object069
+    2300084: Object070
+    2300086: Object071
+    2300088: Object073
+    2300090: Object074
+    2300092: Object075
+    2300094: Object076
+    2300096: Object078
+    2300098: Object079
+    2300100: Object080
+    2300102: Object081
+    2300104: Object083
+    2300106: Object086
+    2300108: Object087
+    2300110: Object088
+    2300112: Object091
+    2300114: Object092
+    2300116: Object097
+    2300118: Object098
+    2300120: Object099
+    2300122: Object100
+    2300124: Plane002
+    2300126: Plane004
+    2300128: Plane006
+    2300130: Plane009
+    2300132: Plane010
+    2300134: Plane013
+    2300136: Plane014
+    2300138: Plane015
+    2300140: Plane016
+    2300142: Plane017
+    2300144: Plane018
+    2300146: Plane019
+    2300148: Plane020
+    3300000: Cylinder008
+    3300002: Cylinder010
+    3300004: Cylinder012
+    3300006: Cylinder013
+    3300008: Cylinder014
+    3300010: Cylinder015
+    3300012: Cylinder016
+    3300014: Cylinder017
+    3300016: Cylinder019
+    3300018: Cylinder020
+    3300020: default
+    3300022: default001
+    3300024: Object002
+    3300026: Object005
+    3300028: Object006
+    3300030: Object015
+    3300032: Object017
+    3300034: Object033
+    3300036: Object034
+    3300038: Object035
+    3300040: Object037
+    3300042: Object039
+    3300044: Object041
+    3300046: Object043
+    3300048: Object045
+    3300050: Object047
+    3300052: Object049
+    3300054: Object051
+    3300056: Object053
+    3300058: Object055
+    3300060: Object058
+    3300062: Object059
+    3300064: Object060
+    3300066: Object061
+    3300068: Object062
+    3300070: Object063
+    3300072: Object064
+    3300074: Object065
+    3300076: Object066
+    3300078: Object067
+    3300080: Object068
+    3300082: Object069
+    3300084: Object070
+    3300086: Object071
+    3300088: Object073
+    3300090: Object074
+    3300092: Object075
+    3300094: Object076
+    3300096: Object078
+    3300098: Object079
+    3300100: Object080
+    3300102: Object081
+    3300104: Object083
+    3300106: Object086
+    3300108: Object087
+    3300110: Object088
+    3300112: Object091
+    3300114: Object092
+    3300116: Object097
+    3300118: Object098
+    3300120: Object099
+    3300122: Object100
+    3300124: Plane002
+    3300126: Plane004
+    3300128: Plane006
+    3300130: Plane009
+    3300132: Plane010
+    3300134: Plane013
+    3300136: Plane014
+    3300138: Plane015
+    3300140: Plane016
+    3300142: Plane017
+    3300144: Plane018
+    3300146: Plane019
+    3300148: Plane020
+    4300000: Plane010
+    4300002: Object033
+    4300004: Object017
+    4300006: Object015
+    4300008: Object078
+    4300010: Object005
+    4300012: default
+    4300014: Plane013
+    4300016: Object076
+    4300018: Plane016
+    4300020: Object074
+    4300022: Object079
+    4300024: Object075
+    4300026: default001
+    4300028: Object073
+    4300030: Plane015
+    4300032: Object037
+    4300034: Object035
+    4300036: Object097
+    4300038: Object043
+    4300040: Object041
+    4300042: Object039
+    4300044: Object049
+    4300046: Object047
+    4300048: Object045
+    4300050: Object055
+    4300052: Object053
+    4300054: Object051
+    4300056: Object080
+    4300058: Object006
+    4300060: Plane009
+    4300062: Object002
+    4300064: Object087
+    4300066: Object034
+    4300068: Object066
+    4300070: Object068
+    4300072: Object098
+    4300074: Object069
+    4300076: Object070
+    4300078: Object063
+    4300080: Object067
+    4300082: Object062
+    4300084: Object060
+    4300086: Object071
+    4300088: Object064
+    4300090: Object061
+    4300092: Object081
+    4300094: Object065
+    4300096: Plane014
+    4300098: Object058
+    4300100: Object088
+    4300102: Object059
+    4300104: Plane002
+    4300106: Object099
+    4300108: Object100
+    4300110: Plane004
+    4300112: Cylinder013
+    4300114: Cylinder010
+    4300116: Cylinder017
+    4300118: Cylinder016
+    4300120: Cylinder012
+    4300122: Cylinder008
+    4300124: Cylinder015
+    4300126: Cylinder014
+    4300128: Cylinder019
+    4300130: Object091
+    4300132: Plane006
+    4300134: Cylinder020
+    4300136: Object086
+    4300138: Object092
+    4300140: Object083
+    4300142: Plane017
+    4300144: Plane018
+    4300146: Plane019
+    4300148: Plane020
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+    6000828045688606266: Camera001
+    6000828045688606268: Camera002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.049999997
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
